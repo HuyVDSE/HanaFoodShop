@@ -29,4 +29,4 @@ Project is: _finished_
 Project inspired by BlankSpace (me), based on JavaEE
 
 ## Contact
-Created by [@BlankSpace](https://www.flynerd.pl/) - feel free to contact me!
+Created by [@BlankSpace](https://www.linkedin.com/in/huyvd2000/) - feel free to contact me!
