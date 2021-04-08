@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/FoodShop">
+    <Resource
+	auth="Container"
+	driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver"
+	name="FoodShop"
+	type="javax.sql.DataSource"
+	url="jdbc:sqlserver://localhost:1433;databaseName=FoodShop"
+	username="sa"
+	password="123456"
+    />
+</Context>
